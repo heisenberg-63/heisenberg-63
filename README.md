@@ -10,7 +10,7 @@
 </p>
 <img align="right" alt="GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" height="270px">
 - 👋 Hi, I’m @heisenberg-63 <br>
-- 👀 I’m interested in Web Development, Data Structures and Algorithms <br>
+- 👀 I’m interested in Web Development, Data Structures and Algorithms,Buisness Consulting and Data Analysis <br>
 - 🌱 I’m currently learning. <br>
 - 📫 How to reach me <br>
 - email: tathagatsinghtomar356@gmail.com <br> <br>
