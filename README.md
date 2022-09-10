@@ -9,11 +9,11 @@
 <a href="mailto:ambardixit09@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <img align="right" alt="GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" height="270px">
-- 👋 Hi, I’m @AK09-1 <br>
+- 👋 Hi, I’m @heisenberg-63 <br>
 - 👀 I’m interested in Web Development, Data Structures and Algorithms <br>
 - 🌱 I’m currently learning. <br>
 - 📫 How to reach me <br>
-- email: ambardixit09@gmail.com <br> <br>
+- email: tathagatsinghtomar356@gmail.com <br> <br>
 
 
 <!---
